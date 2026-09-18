@@ -85,9 +85,6 @@ $ merezha monitor
  14:32:07  github  latency 156.0 ms (z=4.8, hybrid)
 ```
 
-> Tip: record a GIF of `merezha monitor` with [vhs](https://github.com/charmbracelet/vhs) or
-> [asciinema](https://asciinema.org) and drop it here — it looks great in motion.
-
 ## Quickstart
 
 Requires Python 3.11+.
